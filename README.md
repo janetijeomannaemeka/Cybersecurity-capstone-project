@@ -53,4 +53,4 @@ It also reinforced the importance of documenting findings clearly and recommendi
 ---
 ## Project Evidence
 
-![Vulnerability Assessment Screenshot](screenshots/vulnerability-scan.png) 
+![Vulnerability Assessment Screenshot](https://github.com/janetijeomannaemeka/Cybersecurity-capstone-project/blob/main/Vulnerability%20Assessment%20Screenshot.jpeg?raw=true) 

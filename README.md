@@ -52,4 +52,4 @@ This project strengthened my understanding of vulnerability assessment, service 
 It also reinforced the importance of documenting findings clearly and recommending security improvements based on evidence.
 ---
 ## Project Evidence 
-![Vulnerability Assessment Screenshot] (Screenshots/vulnerability-scan.png)
+![Vulnerability Assessment Screenshot] (https://github.com/janetijeomannaemeka/Cybersecurity-capstone-project/blob/main/Vulnerability%20Assessment%20Screenshot.jpeg?raw=true)

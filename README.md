@@ -51,4 +51,5 @@ Telnet does not encrypt its communications. Credentials and other transmitted in
 This project strengthened my understanding of vulnerability assessment, service exposure, security risks, and remediation planning.
 It also reinforced the importance of documenting findings clearly and recommending security improvements based on evidence.
 ---
-![https://github.com/janetijeomannaemeka/Cybersecurity-capstone-project/blob/main/capstone%20screenshot.jpeg?raw=true)
+## Project Evidence 
+![Vulnerability Assessment Screenshot] (Screenshots/vulnerability-scan.png)
